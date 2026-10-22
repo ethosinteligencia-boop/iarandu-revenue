@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>IArandú Revenue — Agência Comercial com IA</title>
+  <meta name="description" content="IArandú Revenue: inteligência comercial, prospecção e agentes de IA em uma operação integrada.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Permanent+Marker&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/iarandu.css">
+</head>
+<body>
+  <main id="app" aria-live="polite"></main>
+
+  <nav class="nav" id="mainNav" aria-label="Navegação principal">
+    <a class="brand route-link" href="/inicio" data-route="home">
+      <span class="brand-line"><span class="iarandu-mark" aria-hidden="true"><svg viewBox="0 0 42 42"><circle cx="21" cy="21" r="5"/><ellipse cx="21" cy="21" rx="18" ry="8"/><ellipse cx="21" cy="21" rx="8" ry="18" transform="rotate(38 21 21)"/><circle cx="35" cy="17" r="2.7"/></svg></span><span>IArandú<small>REVENUE OS</small></span></span>
+      <span class="tagline">INTELIGÊNCIA COMERCIAL<br>GERENCIADA POR IA</span>
+    </a>
+    <a class="nav-item route-link" href="/inicio" data-route="home"><span class="nav-icon">⌂</span>Central</a>
+    <a class="nav-item route-link" href="/campanhas" data-route="launch"><span class="nav-icon">↗</span>Campanhas</a>
+    <a class="nav-item route-link" href="/prospeccao" data-route="companies"><span class="nav-icon">◎</span>Prospecção</a>
+    <a class="nav-item route-link" href="/equipe" data-route="team"><span class="nav-icon">♧</span>Equipe de agentes</a>
+    <a class="nav-item route-link" href="/metas" data-route="milestones"><span class="nav-icon">♢</span>Metas</a>
+    <a class="nav-item route-link" href="/ciclo-comercial" data-route="flywheel"><span class="nav-icon">⟳</span>Ciclo comercial</a>
+    <a class="nav-item route-link" href="/prioridades" data-route="ranking"><span class="nav-icon">▣</span>Prioridades</a>
+    <a class="nav-item route-link" href="/documentacao" data-route="docs"><span class="nav-icon">▤</span>Documentação</a>
+  </nav>
+
+  <div class="top-actions" id="topActions">
+    <a class="close-route route-link" href="/inicio" data-route="home" aria-label="Voltar à central">×</a>
+    <div class="status"><span class="dot"></span><span id="statusText">7 agentes ativos</span></div>
+  </div>
+
+  <div class="scrim" id="scrim"></div>
+  <aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+    <header class="drawer-head">
+      <div class="avatar" id="drawerAvatar"></div>
+      <div><div class="eyebrow" id="drawerRole"></div><h2 id="drawerTitle"></h2><p id="drawerSubtitle"></p></div>
+      <button class="close-drawer" id="closeDrawer" aria-label="Fechar">×</button>
+    </header>
+    <div class="drawer-body" id="drawerBody"></div>
+  </aside>
+
+  <script src="/iarandu.js"></script>
+</body>
+</html>

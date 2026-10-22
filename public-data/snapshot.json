@@ -1,0 +1,673 @@
+{
+  "/api/inbound-opportunities": [
+    {
+      "agencia": "Art&C Comunicação Integrada",
+      "status_etapa": "Apresentação Enviada",
+      "uf": "RN / Nordeste",
+      "canal_origem": "Instagram Direct (@artccom)",
+      "contratos_relevantes": "Grandes Contas Públicas RN/PB (Governos e Prefeituras)"
+    },
+    {
+      "agencia": "Binder Comunicação Ltda.",
+      "status_etapa": "Apresentação Enviada (Equipe + CEO)",
+      "uf": "RJ / DF / Nacional",
+      "canal_origem": "Instagram Direct (@binder)",
+      "contratos_relevantes": "R$ 564.550.000,00 (Caixa Econômica Federal & Prefeitura do Rio)"
+    },
+    {
+      "agencia": "Orgassi Contabilidade / Blancolima",
+      "status_etapa": "Canal Corrigido & Auditado",
+      "uf": "PR",
+      "canal_origem": "WhatsApp OpenWA",
+      "contratos_relevantes": "R$ 270k+ (Câmaras e Prefeituras PR)"
+    }
+  ],
+  "/api/instagram-history": [
+    {
+      "nome": "Agência Arkus",
+      "municipio": "Brasil",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "Ágil Comunicação",
+      "municipio": "Brasil",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "Suno United Creators",
+      "municipio": "Brasil",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "Neovox Comunicação",
+      "municipio": "Brasil",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "LOGOS PROPAGANDA LTDA.",
+      "municipio": "Goiânia",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "ART & C COMUNICACAO",
+      "municipio": "NATAL",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "Binder",
+      "municipio": "BRASILIA",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "BINDER COMUNICAÇÃO",
+      "municipio": "Rio de Janeiro",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "OCTOPUS COMUNICAÇÃO",
+      "municipio": "Santo André",
+      "status": "Entregue",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "DPZ",
+      "municipio": "São Paulo",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "PROPEG",
+      "municipio": "Salvador",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "CALIA COMUNICAÇÃO",
+      "municipio": "Brasília",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "AMPLA COMUNICAÇÃO",
+      "municipio": "Recife",
+      "status": "Entregue",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "LEIAUTE PROPAGANDA",
+      "municipio": "Salvador",
+      "status": "Entregue",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "ONE VASP",
+      "municipio": "Joinville",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "D/ARAÚJO",
+      "municipio": "Florianópolis",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "MARTINS ANDRADE",
+      "municipio": "Porto Alegre",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "ESCALA",
+      "municipio": "Porto Alegre",
+      "status": "Entregue",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "AGÊNCIA3",
+      "municipio": "Rio de Janeiro",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    },
+    {
+      "nome": "BINDER",
+      "municipio": "Rio de Janeiro",
+      "status": "DM Restrita",
+      "enviado_em": "21/10/2026"
+    }
+  ],
+  "/api/instagram-queue": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "/api/whatsapp-live": [
+    {
+      "agencia": "LENCINA PUBLICIDADE LTDA",
+      "enviado_em": "2026-10-21 16:32:53",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "OPEN ART PROPAGANDA E MARKETING LTDA",
+      "enviado_em": "2026-10-21 16:29:20",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "FATOR F INTELIGENCIA EM COMUNICACAO LTDA",
+      "enviado_em": "2026-10-21 16:26:18",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "KLIMT AGENCIA DE PUBLICIDADE LTDA",
+      "enviado_em": "2026-10-21 16:23:39",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "SOUL PROPAGANDA LTDA",
+      "enviado_em": "2026-10-21 16:20:45",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "PEN6",
+      "enviado_em": "2026-10-21 16:16:57",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "FULL PROPAGANDA LTDA",
+      "enviado_em": "2026-10-21 16:13:48",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "EBM QUINTTO COMUNICACAO",
+      "enviado_em": "2026-10-21 16:11:12",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "KINTAW DESIGN E PUBLICIDADE LTDA - ME",
+      "enviado_em": "2026-10-21 16:08:55",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "ANTONIO FERNANDES BARROS LIMA JUNIOR",
+      "enviado_em": "2026-10-21 16:06:04",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "CONCEITO DE COMUNICACAO INTEGRADA",
+      "enviado_em": "2026-10-21 16:02:30",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "NOVA/SB",
+      "enviado_em": "2026-10-21 15:59:31",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "ELIZEU SCHEBELINSKI FOTOGRAFIA",
+      "enviado_em": "2026-10-21 15:55:23",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "FEELING PROPAGANDA",
+      "enviado_em": "2026-10-21 15:52:25",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "BLANCOLIMA COMUNICACAO E MARKETING EIRELI",
+      "enviado_em": "2026-10-21 15:49:55",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "NOVA/SB",
+      "enviado_em": "2026-10-21 15:46:04",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "LEME MEIO AMBIENTE & CULTURA",
+      "enviado_em": "2026-10-21 15:45:54",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "CASA DA COMUNICAÇÃO SS LTDA",
+      "enviado_em": "2026-10-21 15:41:43",
+      "status": "Entregue"
+    },
+    {
+      "agencia": "ZEUS COMUNICACAO E MARKETING LTDA",
+      "enviado_em": "2026-10-21 15:39:00",
+      "status": "Entregue"
+    }
+  ],
+  "/api/email-data": {
+    "stats": {
+      "enviados": 52
+    },
+    "leads": [
+      {
+        "agencia": "Art&C Comunicação",
+        "valor_contrato": "Grandes Contas RN",
+        "status": "Entregue (Inbound)"
+      },
+      {
+        "agencia": "Binder Comunicação",
+        "valor_contrato": "R$ 564.550.000,00",
+        "status": "Entregue (Inbound)"
+      },
+      {
+        "agencia": "Binder Comunicação (Presidência)",
+        "valor_contrato": "R$ 564.550.000,00",
+        "status": "Entregue (Inbound)"
+      },
+      {
+        "agencia": "TATTICAS COMUNICACAO LTDA",
+        "valor_contrato": "R$ 700.000,00",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "MASTER COMUNICAÇÃO",
+        "valor_contrato": "R$ 185.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "OPUS MÚLTIPLA",
+        "valor_contrato": "R$ 140.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "CC&P COMUNICAÇÃO",
+        "valor_contrato": "R$ 42.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "CANDY SHOP",
+        "valor_contrato": "R$ 35.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "TIF COMUNICAÇÃO",
+        "valor_contrato": "R$ 48.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "CANAL MKT",
+        "valor_contrato": "R$ 26.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "BRONX COMUNICAÇÃO",
+        "valor_contrato": "R$ 38.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "LEW'LARA\\TBWA",
+        "valor_contrato": "R$ 320.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "PROPEG",
+        "valor_contrato": "R$ 290.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "CALIA",
+        "valor_contrato": "R$ 450.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "ARTPLAN",
+        "valor_contrato": "R$ 580.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "NOVA/SB",
+        "valor_contrato": "R$ 340.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "WMCCANN",
+        "valor_contrato": "R$ 480.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "FIELDS R&D",
+        "valor_contrato": "R$ 110.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "LUA PROPAGANDA",
+        "valor_contrato": "R$ 72.0 Mi",
+        "status": "Entregue"
+      },
+      {
+        "agencia": "TOM COMUNICAÇÃO",
+        "valor_contrato": "R$ 95.0 Mi",
+        "status": "Entregue"
+      }
+    ]
+  },
+  "/api/contatos-quentes": [
+    {
+      "agencia": "LOLA/TBWA PUBLICIDADE PROPAGANDA LTDA",
+      "orgao": "Banco do Brasil S/A",
+      "cargo": "Administrador",
+      "contrato": "R$ 750,000,000.00"
+    },
+    {
+      "agencia": "PROPEG COMUNICACAO S/A",
+      "orgao": "Petróleo Brasileiro S/A",
+      "cargo": "Presidente",
+      "contrato": "R$ 749,550,000.00"
+    },
+    {
+      "agencia": "CALIA/ Y2 PROPAGANDA E MARKETING LTDA.",
+      "orgao": "Secretaria  de Comunicação Social da Presidência da República",
+      "cargo": "Administrador",
+      "contrato": "R$ 710,000,000.00"
+    },
+    {
+      "agencia": "PROPEG COMUNICACAO",
+      "orgao": "Secretaria  de Comunicação Social da Presidência da República",
+      "cargo": "Presidente",
+      "contrato": "R$ 450,000,000.00"
+    },
+    {
+      "agencia": "BINDER COMUNICACAO LTDA",
+      "orgao": "Caixa Econômica Federal",
+      "cargo": "Sócio-Administrador",
+      "contrato": "R$ 434,550,000.00"
+    },
+    {
+      "agencia": "CALIA/ Y2 PROPAGANDA E MARKETING LTDA.",
+      "orgao": "Caixa Econômica Federal",
+      "cargo": "Administrador",
+      "contrato": "R$ 381,550,000.00"
+    },
+    {
+      "agencia": "OGILVY & MATHER BRASIL COMUNICACAO LTDA",
+      "orgao": "Petróleo Brasileiro S/A",
+      "cargo": "Sócio-Administrador",
+      "contrato": "R$ 375,000,000.00"
+    },
+    {
+      "agencia": "DEBRITO BRASIL COMUNICACAO LTDA",
+      "orgao": "Ministério da Saúde",
+      "cargo": "Sócio-Administrador",
+      "contrato": "R$ 260,000,000.00"
+    },
+    {
+      "agencia": "ARTPLAN COMUNICACAO LTDA.",
+      "orgao": "Banco Nacional de Desenvolvimento Econômico e Social",
+      "cargo": "Administrador",
+      "contrato": "R$ 93,750,000.00"
+    },
+    {
+      "agencia": "ESCALA",
+      "orgao": "Banco da Amazônia",
+      "cargo": "Sócio-Administrador",
+      "contrato": "R$ 84,472,536.00"
+    }
+  ],
+  "/api/mercado-intelligence": [
+    {
+      "nome_fantasia": "AGENCIA NACIONAL",
+      "dono_cargo": "Administrador",
+      "valor_contratos": "R$ 1.64 Bi",
+      "orgao": "Banco do Brasil S/A",
+      "uf": "DF",
+      "municipio": "BRASILIA",
+      "site": false,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "NOVA",
+      "dono_cargo": "Diretor",
+      "valor_contratos": "R$ 1.46 Bi",
+      "orgao": "Banco do Brasil S/A",
+      "uf": "SP",
+      "municipio": "SAO PAULO",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "WMCCANN",
+      "dono_cargo": "Administrador",
+      "valor_contratos": "R$ 843.8 Mi",
+      "orgao": "Banco do Brasil S/A",
+      "uf": "SP",
+      "municipio": "SAO PAULO",
+      "site": false,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "LOLA/TBWA PUBLICIDADE PROPAGANDA LTDA",
+      "dono_cargo": "Administrador",
+      "valor_contratos": "R$ 750.0 Mi",
+      "orgao": "Banco do Brasil S/A",
+      "uf": "SP",
+      "municipio": "SAO PAULO",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "PROPEG COMUNICACAO S/A",
+      "dono_cargo": "Presidente",
+      "valor_contratos": "R$ 749.5 Mi",
+      "orgao": "Petróleo Brasileiro S/A",
+      "uf": "SP",
+      "municipio": "SAO PAULO",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "CALIA/ Y2 PROPAGANDA E MARKETING LTDA.",
+      "dono_cargo": "Administrador",
+      "valor_contratos": "R$ 710.0 Mi",
+      "orgao": "Secretaria  de Comunicação Social da Presidência da República",
+      "uf": "DF",
+      "municipio": "BRASILIA",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "ARTPLAN",
+      "dono_cargo": "Presidente Executivo",
+      "valor_contratos": "R$ 580.0 Mi",
+      "orgao": "Prefeitura do Rio de Janeiro / Caixa Econômica",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "site": true,
+      "instagram": true,
+      "whatsapp": true,
+      "email": true
+    },
+    {
+      "nome_fantasia": "WMCCANN",
+      "dono_cargo": "Presidente",
+      "valor_contratos": "R$ 480.0 Mi",
+      "orgao": "Banco do Brasil / Ministério da Educação",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "site": false,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "CALIA",
+      "dono_cargo": "Presidente & Sócio",
+      "valor_contratos": "R$ 450.0 Mi",
+      "orgao": "Secretaria de Comunicação Social da Presidência / Sabesp",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "site": false,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "PROPEG COMUNICACAO",
+      "dono_cargo": "Presidente",
+      "valor_contratos": "R$ 450.0 Mi",
+      "orgao": "Secretaria  de Comunicação Social da Presidência da República",
+      "uf": "DF",
+      "municipio": "BRASILIA",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "CALIA COMUNICAÇÃO",
+      "dono_cargo": "Sócio-Fundador",
+      "valor_contratos": "R$ 450.0 Mi",
+      "orgao": "SECOM Presidência / Ministério da Saúde / Ministério das Cidades",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "BINDER COMUNICACAO LTDA",
+      "dono_cargo": "Sócio-Administrador",
+      "valor_contratos": "R$ 434.6 Mi",
+      "orgao": "Caixa Econômica Federal",
+      "uf": "DF",
+      "municipio": "BRASILIA",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "CALIA/ Y2 PROPAGANDA E MARKETING LTDA.",
+      "dono_cargo": "Administrador",
+      "valor_contratos": "R$ 381.6 Mi",
+      "orgao": "Caixa Econômica Federal",
+      "uf": "SP",
+      "municipio": "SAO PAULO",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "NOVA/SB",
+      "dono_cargo": "Sócio-Diretor",
+      "valor_contratos": "R$ 380.0 Mi",
+      "orgao": "Caixa Econômica Federal / SECOM",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "OGILVY & MATHER BRASIL COMUNICACAO LTDA",
+      "dono_cargo": "Sócio-Administrador",
+      "valor_contratos": "R$ 375.0 Mi",
+      "orgao": "Petróleo Brasileiro S/A",
+      "uf": "SP",
+      "municipio": "SAO PAULO",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "NOVA/SB",
+      "dono_cargo": "Sócio-Fundador",
+      "valor_contratos": "R$ 340.0 Mi",
+      "orgao": "Ministério da Saúde / Governo de SP",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "LEW'LARA\\TBWA",
+      "dono_cargo": "Presidente do Conselho",
+      "valor_contratos": "R$ 320.0 Mi",
+      "orgao": "Prefeitura de São Paulo / Governo de SP",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "site": false,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    },
+    {
+      "nome_fantasia": "PROPEG",
+      "dono_cargo": "Diretor Executivo",
+      "valor_contratos": "R$ 290.0 Mi",
+      "orgao": "Governo do Estado de São Paulo / Governo da Bahia",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "site": true,
+      "instagram": true,
+      "whatsapp": false,
+      "email": true
+    }
+  ]
+}
