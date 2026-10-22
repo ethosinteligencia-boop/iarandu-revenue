@@ -38,3 +38,5 @@ scene/characters/*
 !public-data/
 public-data/*
 !public-data/snapshot.json
+
+.vercel
