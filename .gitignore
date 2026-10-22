@@ -41,3 +41,4 @@ public-data/*
 !public-data/snapshot.json
 
 .vercel
+!scene/logo-header-official.png
