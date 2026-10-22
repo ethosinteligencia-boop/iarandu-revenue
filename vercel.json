@@ -4,14 +4,14 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/inicio", "destination": "/index.html" },
-    { "source": "/campanhas", "destination": "/index.html" },
-    { "source": "/prospeccao", "destination": "/index.html" },
-    { "source": "/equipe", "destination": "/index.html" },
-    { "source": "/metas", "destination": "/index.html" },
-    { "source": "/ciclo-comercial", "destination": "/index.html" },
-    { "source": "/prioridades", "destination": "/index.html" },
-    { "source": "/documentacao", "destination": "/index.html" }
+    { "source": "/inicio", "destination": "/" },
+    { "source": "/campanhas", "destination": "/" },
+    { "source": "/prospeccao", "destination": "/" },
+    { "source": "/equipe", "destination": "/" },
+    { "source": "/metas", "destination": "/" },
+    { "source": "/ciclo-comercial", "destination": "/" },
+    { "source": "/prioridades", "destination": "/" },
+    { "source": "/documentacao", "destination": "/" }
   ],
   "headers": [
     {
