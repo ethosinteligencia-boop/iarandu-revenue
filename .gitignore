@@ -9,6 +9,7 @@
 !scene/
 scene/*
 !scene/office-iarandu-pt-v3.png
+!scene/iarandu-logo.png
 !scene/board-room.webp
 !scene/desk-screen.webp
 !scene/team.webp
